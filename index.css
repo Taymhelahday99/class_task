@@ -1,0 +1,28 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #424242;
+}
+header{
+    background: linear-gradient(to right, #44004f, #8e0077);
+    padding: 15pt 0;
+    color: #fff !important;
+}
+.icon{
+    color: #808080;
+    font-size: 20pt;
+}
+.mytxt{
+    font-style: italic;
+}
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.radius{
+    border-radius: 15px 15px 15px 15px !important;
+}
+.radius-img{
+    border-radius: 15px 15px 0 0 !important;
+}
